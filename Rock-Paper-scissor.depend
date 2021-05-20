@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621494958 source:e:\rock-paper-scissor\main.cpp
+	<iostream>
+	<cstdlib>
+
